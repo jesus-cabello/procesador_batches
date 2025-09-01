@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-01T15:31:04.931643",
+  "task_id": "bf8bf47e-d0e7-4843-9e00-37e19707367c",
+  "request": {
+    "method": "GET",
+    "url": "http://localhost:5000/users/1",
+    "data": null,
+    "headers": null
+  },
+  "response": {
+    "status_code": 200,
+    "response": {
+      "id": 1,
+      "name": "User 1",
+      "status": "active",
+      "updated_by": "batch_processor"
+    }
+  },
+  "attempt": 1,
+  "status": "success"
+}

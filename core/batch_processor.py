@@ -4,7 +4,7 @@ from typing import List, Dict, Any
 from models.task import Task, TaskStatus
 from core.worker import Worker
 from config.settings import config
-from logging.logger import logger
+from log_system.logger  import logger
 import time
 
 class BatchProcessor:

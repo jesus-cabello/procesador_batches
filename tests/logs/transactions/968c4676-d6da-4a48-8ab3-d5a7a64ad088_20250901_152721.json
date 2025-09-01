@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-09-01T15:27:21.243455",
+  "task_id": "968c4676-d6da-4a48-8ab3-d5a7a64ad088",
+  "request": {
+    "method": "GET",
+    "url": "<http://localhost:5000>/users/5",
+    "data": null
+  },
+  "error": "No connection adapters were found for '<http://localhost:5000>/users/5'",
+  "attempts": 3,
+  "status": "failed"
+}

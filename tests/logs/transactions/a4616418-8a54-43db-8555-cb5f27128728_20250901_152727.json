@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-01T15:27:27.262421",
+  "task_id": "a4616418-8a54-43db-8555-cb5f27128728",
+  "request": {
+    "method": "POST",
+    "url": "<http://localhost:5000>/users",
+    "data": {
+      "name": "New User 48",
+      "email": "user48@test.com"
+    }
+  },
+  "error": "No connection adapters were found for '<http://localhost:5000>/users'",
+  "attempts": 3,
+  "status": "failed"
+}

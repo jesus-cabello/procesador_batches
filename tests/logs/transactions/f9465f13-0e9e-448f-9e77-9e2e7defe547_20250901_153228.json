@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-09-01T15:32:28.037438",
+  "task_id": "f9465f13-0e9e-448f-9e77-9e2e7defe547",
+  "request": {
+    "method": "PATCH",
+    "url": "http://localhost:5000/users/3",
+    "data": {
+      "status": "active",
+      "updated_by": "batch_processor"
+    },
+    "headers": null
+  },
+  "response": {
+    "status_code": 200,
+    "response": {
+      "id": 3,
+      "name": "User 3",
+      "status": "active",
+      "updated_by": "batch_processor"
+    }
+  },
+  "attempt": 1,
+  "status": "success"
+}

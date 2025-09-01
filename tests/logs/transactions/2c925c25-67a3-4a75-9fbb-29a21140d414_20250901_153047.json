@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-01T15:30:47.160886",
+  "task_id": "2c925c25-67a3-4a75-9fbb-29a21140d414",
+  "request": {
+    "method": "POST",
+    "url": "http://localhost:5000/users",
+    "data": {
+      "name": "New User 3",
+      "email": "user3@test.com"
+    },
+    "headers": null
+  },
+  "response": {
+    "status_code": 201,
+    "response": {
+      "email": "user3@test.com",
+      "id": "101",
+      "name": "New User 3"
+    }
+  },
+  "attempt": 1,
+  "status": "success"
+}

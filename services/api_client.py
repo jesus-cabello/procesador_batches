@@ -2,7 +2,7 @@ import requests
 from typing import Dict, Any, Optional
 from models.task import Task, HTTPMethod
 from config.settings import config
-from logging.logger import logger
+from log_system.logger import logger
 import time
 
 class APIClient:

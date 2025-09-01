@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-01T15:32:54.979642",
+  "task_id": "0f2d6a77-fd5a-446b-8c50-d23149dfc9c5",
+  "request": {
+    "method": "PATCH",
+    "url": "http://localhost:5000/users/6",
+    "data": {
+      "counter": 46
+    },
+    "headers": null
+  },
+  "response": {
+    "status_code": 200,
+    "response": {
+      "counter": 46,
+      "id": 6,
+      "name": "User 6",
+      "status": "inactive"
+    }
+  },
+  "attempt": 1,
+  "status": "success"
+}

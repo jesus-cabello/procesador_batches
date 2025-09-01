@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-09-01T15:33:10.508663",
+  "task_id": "3e66376a-1f5e-40d6-8039-2e234bcf0181",
+  "request": {
+    "method": "GET",
+    "url": "http://localhost:5000/users/1000",
+    "data": null
+  },
+  "error": "503 Server Error: SERVICE UNAVAILABLE for url: http://localhost:5000/users/1000",
+  "attempts": 3,
+  "status": "failed"
+}

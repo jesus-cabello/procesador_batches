@@ -1,6 +1,6 @@
 from core.batch_processor import BatchProcessor
 from models.task import Task, HTTPMethod
-from logging.logger import logger
+from log_system.logger import logger
 import json
 
 def main():

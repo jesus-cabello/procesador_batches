@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-09-01T15:30:37.983183",
+  "task_id": "eb204c93-1d74-4b10-9226-93901bee1054",
+  "request": {
+    "method": "GET",
+    "url": "http://localhost:5000/users/4",
+    "data": null,
+    "headers": null
+  },
+  "response": {
+    "status_code": 200,
+    "response": {
+      "id": 4,
+      "name": "User 4",
+      "status": "inactive"
+    }
+  },
+  "attempt": 1,
+  "status": "success"
+}

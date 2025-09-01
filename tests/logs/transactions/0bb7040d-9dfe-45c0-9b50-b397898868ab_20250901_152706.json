@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-09-01T15:27:06.200007",
+  "task_id": "0bb7040d-9dfe-45c0-9b50-b397898868ab",
+  "request": {
+    "method": "PATCH",
+    "url": "<http://localhost:5000>/users/0",
+    "data": {
+      "counter": 10
+    }
+  },
+  "error": "No connection adapters were found for '<http://localhost:5000>/users/0'",
+  "attempts": 3,
+  "status": "failed"
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-09-01T15:33:20.391020",
+  "task_id": "4439e087-2ecb-4080-a622-4b7bc14dd078",
+  "request": {
+    "method": "GET",
+    "url": "http://localhost:5000/users/1002",
+    "data": null
+  },
+  "error": "404 Client Error: NOT FOUND for url: http://localhost:5000/users/1002",
+  "attempts": 3,
+  "status": "failed"
+}

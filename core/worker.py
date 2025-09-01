@@ -3,7 +3,7 @@ import queue
 from typing import Optional
 from models.task import Task, TaskStatus
 from services.api_client import APIClient
-from logging.logger import logger
+from log_system.logger import logger
 from datetime import datetime
 
 class Worker(threading.Thread):
